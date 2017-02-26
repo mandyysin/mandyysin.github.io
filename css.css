@@ -1,0 +1,89 @@
+.text-center {
+	text-align: center;
+
+
+}
+
+.btn-pink{ 
+
+background-color: black;
+}
+
+.btn-round{
+	border-radiuus: 30px;
+}
+
+.bg-image{
+	
+	background-image: url('m1.jpg');
+	background-size: cover;
+
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+.text-white{
+	color: white;
+	text-shadow: 2px 2px 5px black;
+	font-style: italic;
+	font-size: 20px;
+	font-family: Barrio;
+	float: middle;
+}
+
+.minor-text{
+	color: gold;
+	text-shadow: 2px 2px 5px black;
+	font-family: Mr Dafoe;
+	font-size: 20px
+}
+
+.container{
+	font-style: italic;
+	front-size: 30px;
+	color: black;
+	background-color: white;
+	font-family: Amatic SC;
+	float: middle;
+	padding-top: 50px;
+	padding-pottom: 50px;
+	text-shadown: 4px 4px 10px black
+
+
+
+}
+
+
+
+.scratch{
+
+	font-size: 70px;
+	text-shadow: 2px 2px 5px black;
+	font-family: Lobster Two;
+	
+}
+
+.rotate:hover
+{
+        -webkit-transform: rotateZ(-30deg);
+        -ms-transform: rotateZ(-30deg);
+        transform: rotateZ(-30deg);
+
+}
+
+.circle:hover
+{
+        border-radius:50%;
+}
+
+.shrink:hover
+{
+        -webkit-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        transform: scale(0.8);
+}
+
+
+
+}
+
