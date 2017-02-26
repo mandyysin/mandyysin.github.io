@@ -1,6 +1,6 @@
 .text-center {
 	text-align: center;
-
+	
 
 }
 
@@ -18,23 +18,23 @@ background-color: black;
 	background-image: url('m1.jpg');
 	background-size: cover;
 
-	padding-top: 200px;
-	padding-bottom: 200px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 .text-white{
 	color: white;
 	text-shadow: 2px 2px 5px black;
 	font-style: italic;
-	font-size: 20px;
-	font-family: Barrio;
+	font-size: 300px;
+	font-family: Amatic SC;
 	float: middle;
 }
 
 .minor-text{
 	color: gold;
 	text-shadow: 2px 2px 5px black;
-	font-family: Mr Dafoe;
+	font-family: 'Barrio', cursive;
 	font-size: 20px
 }
 
@@ -54,7 +54,10 @@ background-color: black;
 }
 
 
-
+.animated bounce infinite{
+	font-family: Amatic SC;
+	font-size: 600px;
+}
 .scratch{
 
 	font-size: 70px;
@@ -81,6 +84,11 @@ background-color: black;
         -webkit-transform: scale(0.8);
         -ms-transform: scale(0.8);
         transform: scale(0.8);
+}
+
+.carousel slide{
+	
+	background-position: center;
 }
 
 
